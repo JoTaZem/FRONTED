@@ -9,7 +9,7 @@ const Menu=()=>{
                     <div className="collapse navbar-collapse" id="navbarNavDarkDropdown">
                         <ul className="navbar-nav">
                             <li className="nav-item ms-2">
-                                <Link to="/">Aprencides</Link>
+                                <Link to="/">Aprendices</Link>
                             </li>
                             <li className="nav-item ms-2">
                                 <Link to="/programas">Programas</Link> 
